@@ -32,7 +32,7 @@ stages:
             resources.limits.cpu: 700m
             resources.limits.memory: 786Mi
             postJob.enabled: false
-          name: platform-complete
+          name: platform-complete-new
           targetNamespace: thunderjet
 timeout: 60
 branch:
