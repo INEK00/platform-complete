@@ -27,7 +27,7 @@ stages:
             image.repository: docker.dev.folio.org/platform-complete
             image.tag: thunderjet-${CICD_EXECUTION_SEQUENCE}
             ingress.enabled: true
-            ingress.hosts[0].host: thunderjet.ci.folio.org
+            ingress.hosts[0].host: thunderjet-rancher-orders-search.ci.folio.org
             ingress.hosts[0].paths[0]: /
             resources.limits.cpu: 700m
             resources.limits.memory: 786Mi
