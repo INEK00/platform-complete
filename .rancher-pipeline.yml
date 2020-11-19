@@ -37,5 +37,5 @@ stages:
 timeout: 60
 branch:
   include:
-    - thunderjet-rancher
+    - thunderjet-rancher-invoice-permissions
 notification: {}
