@@ -104,31 +104,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-audit-1.0.4",
-    "action": "enable"
-  },
-  {
-    "id": "mod-courses-1.1.1",
-    "action": "enable"
-  },
-  {
-    "id": "mod-data-export-3.0.4",
-    "action": "enable"
-  },
-  {
-    "id": "mod-data-import-converter-storage-1.9.2",
-    "action": "enable"
-  },
-  {
-    "id": "mod-source-record-manager-2.4.3",
-    "action": "enable"
-  },
-  {
-    "id": "mod-data-import-1.11.1",
-    "action": "enable"
-  },
-  {
-    "id": "mod-kb-ebsco-java-3.6.5",
+    "id": "mod-kb-ebsco-java-3.6.4",
     "action": "enable"
   },
   {
@@ -140,27 +116,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-storage-4.1.2",
-    "action": "enable"
-  },
-  {
-    "id": "mod-invoice-4.1.2",
-    "action": "enable"
-  },
-  {
     "id": "mod-organizations-1.1.1",
-    "action": "enable"
-  },
-  {
-    "id": "mod-oai-pmh-3.2.5",
-    "action": "enable"
-  },
-  {
-    "id": "mod-quick-marc-1.2.2",
-    "action": "enable"
-  },
-  {
-    "id": "mod-codex-mux-2.9.2",
     "action": "enable"
   },
   {
@@ -180,19 +136,19 @@
     "action": "enable"
   },
   {
-    "id": "mod-ncip-1.6.3",
-    "action": "enable"
-  },
-  {
-    "id": "mod-gobi-1.11.1",
-    "action": "enable"
-  },
-  {
     "id": "mod-patron-4.3.0",
     "action": "enable"
   },
   {
     "id": "mod-rtac-2.0.1",
+    "action": "enable"
+  },
+  {
+    "id": "mod-erm-usage-harvester-2.0.2",
+    "action": "enable"
+  },
+  {
+    "id": "mod-codex-mux-2.9.2",
     "action": "enable"
   },
   {
@@ -202,13 +158,5 @@
   {
     "id": "mod-codex-ekb-1.7.2",
     "action": "enable"
-  },
-  {
-    "id": "mod-erm-usage-harvester-2.0.2",
-    "action": "enable"
-  },
-  {
-    "id": "mod-user-import-3.3.0",
-    "action": "enable"
-  }
+  } 
 ]

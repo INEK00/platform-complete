@@ -1,0 +1,14 @@
+[
+{
+  "id" : "folio_users-5.0.9",
+  "action" : "enable"
+}, 
+{
+  "id" : "folio_stripes-core-6.0.0",
+  "action" : "enable"
+}, 
+{
+  "id" : "folio_tenant-settings-5.0.1",
+  "action" : "enable"
+} 
+]

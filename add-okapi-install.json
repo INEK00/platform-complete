@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mod-codex-mux-2.9.2",
+    "action": "enable"
+  },
+  {
+    "id": "mod-codex-inventory-1.8.0",
+    "action": "enable"
+  },
+  {
+    "id" : "mod-codex-ekb-1.7.2",
+    "action": "enable"
+  }
+]
