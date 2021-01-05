@@ -7,7 +7,7 @@ module.exports = {
   },
   modules: {
     '@folio/users': {}, 
-    '@folio/agreements': {},
+    '@folio-inek/agreements': {},
     '@folio/developer' : {},
     '@folio/eholdings' : {},
     '@folio/erm-usage': {},
