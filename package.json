@@ -16,7 +16,7 @@
 	"dependencies": {
 		"@folio/users": "5.0.9",
 		"@folio-inek/agreements": "5.0.1",
-		"@folio-inek/dashboard": "0.0.1",
+		"@folio-inek/dashboard": "0.0.2",
 		"@folio/developer": "4.0.0",
 		"@folio/eholdings": "5.0.2",
 		"@folio/erm-usage": "4.0.1",

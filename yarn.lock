@@ -1034,10 +1034,10 @@
     react-final-form-arrays "^3.1.0"
     react-router-prop-types "^1.0.4"
 
-"@folio-inek/dashboard@0.0.1":
+"@folio-inek/dashboard@0.0.2":
   version "0.0.1"
-  resolved "http://npmjs.inek.kr:4873/@folio-inek%2fdashboard/-/dashboard-0.0.1.tgz#4386d66608d373ac702d5986addfea0d0a0b000e"
-  integrity sha512-i8MMeY8Ai92pVugHI8yqqkPDzWsHimY/Yz4Dvx4i+7/Wm4nAa7p1GRgbk6n0Rwh12Ix51GFGNWpum0+7SEQc0Q==
+  resolved "http://npmjs.inek.kr:4873/@folio-inek%2fdashboard/-/dashboard-0.0.2.tgz#669b2de3b6c743c61e7b0559c0582a072e4e06b3"
+  integrity sha512-VnSVESVdJZgqu/jTeZvErvdC2KnZv0X+e9u86zKl8+w+mdf2aOLxRQIln7CIQMIB3Yi1U/7MpHJmm7j8qYcydw==
   dependencies:
     "@folio/react-intl-safe-html" "^2.0.0"
     "@folio/stripes-erm-components" "^4.0.0"
